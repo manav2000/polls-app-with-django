@@ -1,0 +1,9 @@
+li a {
+    color: brown;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+
+body {
+    background: orange linear-gradient(to bottom, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4));
+}
